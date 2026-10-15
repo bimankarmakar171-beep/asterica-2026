@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://bimankarmakar171-beep.github.io/asterica-2026/sitemap.xml
+Sitemap: https://bimankarmakar171-beep.github.io/asterica-2026/sitemap.txt
